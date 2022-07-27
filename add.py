@@ -3,7 +3,7 @@ b = 20
 c = 30
 d = 40
 e = a+b+c+d
-f = 20
+h =10
 print(e)
 print("mathan")
 print("electrical engineer")
